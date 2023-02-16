@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**Irinazipzone/Irinazipzone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<div id="header" align="center">
+  <img src="<iframe src="https://giphy.com/embed/WSBeyxvC1jH496xQGA" width="480" height="276" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/code-programmer-learn-to-WSBeyxvC1jH496xQGA">via GIPHY</a></p>" width="100"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
