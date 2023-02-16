@@ -1,5 +1,7 @@
 <div id="header" align="center">
   <img src="<iframe src="https://giphy.com/embed/WSBeyxvC1jH496xQGA" width="480" height="276" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/code-programmer-learn-to-WSBeyxvC1jH496xQGA">via GIPHY</a></p>" width="100"/>
+  </div>
+  
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
