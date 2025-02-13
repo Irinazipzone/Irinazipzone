@@ -1,7 +1,12 @@
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="200"/>
   </div>
-  
+
+  <div id="header" align="center">
+ <img src="https://github.com/user-attachments/assets/cdea6ec3-35ce-4ee5-b188-3ee1d4a385d5" width="500"/>
+  </div>
+ 
+
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=Irinazipzone&style=flat-square&color=blue" alt=""/>
  </div>
