@@ -26,3 +26,10 @@ Pytorch, Tensorflow, Keras, LLM, SQL, Git/GitHub
 <a href="https://github.com/Irinazipzone/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Irinazipzone&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+## Репозитории
+
+| Название проекта | Описание |
+| :---------------------- | :---------------------- |
+| Я.Практикум
+| Kaggle
