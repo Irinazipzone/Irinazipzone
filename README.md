@@ -41,7 +41,7 @@ Pytorch, Tensorflow, Keras, LLM, SQL, Git/GitHub
   <tbody>
 
 <tr>
-      <td><a href="https://github.com/Irinazipzone/Projects"><b>Проекты Я.Практикум</b></a></td>
-      <td><a href="https://github.com/Irinazipzone/Projects/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Irinazipzone/Projects?style=flat-square&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/Irinazipzone/Projects/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/Irinazipzone/Projects?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/Irinazipzone/Practicum"><b>Проекты Я.Практикум</b></a></td>
+      <td><a href="https://github.com/Irinazipzone/Practicum/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Irinazipzone/Practicum?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/Irinazipzone/Practicum/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/Irinazipzone/Practicum?style=flat-square&labelColor=343b41"/></a></td>
 </tr>    
