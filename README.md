@@ -30,18 +30,6 @@ Pytorch, Tensorflow, Keras, LLM, SQL, Git/GitHub
 
 ## Репозитории
 
-<table width=100%>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-    </tr>
-  </thead>
-  <tbody>
-
-<tr>
-      <td><a href="https://github.com/Irinazipzone/Practicum"><b>Проекты Я.Практикум</b></a></td>
-      <td><a href="https://github.com/Irinazipzone/Practicum/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/Irinazipzone/Practicum?style=flat-square&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/Irinazipzone/Practicum/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/Irinazipzone/Practicum?style=flat-square&labelColor=343b41"/></a></td>
-</tr>    
+| 🎁 Projects | Description            | ⭐ Stars | 📚 Forks |
+|-|-|-|-|
+|[Проекты Я.Практикум](https://github.com/Irinazipzone/Practicum)| Проекты выполнены на курсе Data Science + | ![Stars](https://img.shields.io/github/stars/Irinazipzone/Practicum?style=flat-square&labelColor=343b41) | ![Forks](https://img.shields.io/github/forks/Irinazipzone/Practicum?style=flat-square&labelColor=343b41) |
