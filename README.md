@@ -18,7 +18,7 @@
 
 ##### Основные навыки:
 
-Python, NumPy, Pandas, Scikit-learn, Xgboost, Catboost, Matplotlib, Seaborn, Plotly
+Python, NumPy, Pandas, Scikit-learn, Xgboost, Catboost, Matplotlib, Seaborn, Plotly,
 Pytorch, Tensorflow, Keras, LLM, SQL, Git/GitHub
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
